@@ -1,0 +1,121 @@
+body{
+    background-color:hsl(225, 100%, 94%);
+    
+}
+.conteiner-1{
+    background: hsl(225, 100%, 98%);
+    width: 395px;
+    height: 550px;
+    margin-left: 450px;
+    text-align: center;
+    border-radius: 1rem;
+} 
+#img{
+    border-radius: 1rem 1rem 0px 0px;
+    height: 30%;
+    width: 100%;
+}
+#titulo-1{
+    font-family:red Hat Display;
+    margin-bottom: 1px;
+}
+#paragrafo{
+    font-family:red Hat Display;
+    color: hsl(224, 23%, 55%);
+    margin-top: 1px;
+   margin-left: 2rem;
+   font-size: 16px;
+}
+#conteiner-2{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    background-color: hsl(225, 100%, 94%);
+    width: 85%;
+    height: 5rem;
+    display: flex;
+    border-radius: 10px;
+    border: none;
+
+}
+
+
+#imag-2{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    width: 3rem;
+    height: 3rem;
+    
+   
+}
+   
+#change{
+    font-family:red Hat Display;
+    color:  hsl(245, 75%, 52%);
+    margin-top: 2rem;
+    margin-left: 4rem;
+    height: 1rem;
+    width: 4rem;
+    cursor: pointer;
+    background-color:hsl(225, 100%, 94%);
+    border: none;
+    font-size: 1rem; 
+    border-radius: 10%;
+    transition: all .4s ease;
+
+}
+#change:hover{
+    color: hsl(224, 23%, 55%);
+}
+
+h3{
+    font-family:red Hat Display;
+    color:hsl(224, 23%, 55%);
+    margin-left: -6rem;
+    margin-top: 3rem;
+}
+#anual{
+    margin-left: 1rem;
+    font-family:red Hat Display;
+    margin-top: 1rem;
+}
+
+
+
+#pagamento{
+    margin-top: 1rem;
+    color: hsl(225, 100%, 94%);
+    cursor: pointer;
+    background-color:  hsl(245, 75%, 52%);
+    width: 85%;
+    height: 3rem;
+    border-radius: 10px;
+    border: none;
+    transition: all .3s ease;
+}
+#pagamento:hover{
+    background-color: hsl(225, 100%, 94%);
+    color: hsl(245, 75%, 52%);
+}
+
+
+#cancelamento{
+    color:hsl(225, 100%, 94%);
+    margin-top: 1px;
+    background-color:  hsl(245, 75%, 52%);
+    width: 85%;
+    height: 3rem;
+    border-radius:10px;
+    cursor: pointer; 
+    border: none;
+    transition: all .3s ease;
+}
+#cancelamento:hover{
+    background-color:hsl(225, 100%, 94%);
+    color:  hsl(245, 75%, 52%); 
+}
+
+
+
+.attribuition{
+    margin-top: -1rem;
+}
